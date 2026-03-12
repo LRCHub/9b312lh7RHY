@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "SJ",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-12T00:34:26.492308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Requiem In SJ Minore",
+      "artist": "Fleshgod Apocalypse",
+      "has_synced": true,
+      "path": "select/01_Requiem_In_SJ_Minore_Fleshgod_Apocalypse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YOUNGEST IN CHARGE (feat. SJ)",
+      "artist": "OFB",
+      "has_synced": true,
+      "path": "select/02_YOUNGEST_IN_CHARGE_(feat._SJ)_OFB.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Broke Up (SJ)",
+      "artist": "Xiu Xiu",
+      "has_synced": true,
+      "path": "select/03_I_Broke_Up_(SJ)_Xiu_Xiu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One More Time (Otra Vez) - SJ Ver.",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/04_One_More_Time_(Otra_Vez)_-_SJ_Ver._Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One More Time (Otra Vez) (SJ ver.)",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/05_One_More_Time_(Otra_Vez)_(SJ_ver.)_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thumbs Up (S2 & SJ Remix Ver.)",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/06_Thumbs_Up_(S2_&_SJ_Remix_Ver.)_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thumbs Up (S2 & SJ remix version)",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/07_Thumbs_Up_(S2_&_SJ_remix_version)_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thumbs Up (S2 & SJ Remix)",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/08_Thumbs_Up_(S2_&_SJ_Remix)_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dear SJ",
+      "artist": "Alex Gough",
+      "has_synced": false,
+      "path": "select/09_Dear_SJ_Alex_Gough.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Skeng Man (feat. Asap & Sj)",
+      "artist": "Liquez",
+      "has_synced": true,
+      "path": "select/10_Skeng_Man_(feat._Asap_&_Sj)_Liquez.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SJ x Fumez The Engineer - Plugged In",
+      "artist": "Fumez The Engineer",
+      "has_synced": true,
+      "path": "select/11_SJ_x_Fumez_The_Engineer_-_Plugged_In_Fumez_The_Engineer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Namo Namo Shankara Jai Bholenath (feat. DJ SANKET SJ)",
+      "artist": "Dj Omkar ORB",
+      "has_synced": false,
+      "path": "select/12_Namo_Namo_Shankara_Jai_Bholenath_(feat._DJ_SANKET_SJ)_Dj_Omkar_ORB.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ito Ang Araw (feat. Chris Dumadag SJ & Mike Totanes)",
+      "artist": "Himig Heswita",
+      "has_synced": false,
+      "path": "select/13_Ito_Ang_Araw_(feat._Chris_Dumadag_SJ_&_Mike_Totanes)_Himig_Heswita.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Skeng Man (feat. Asap & Sj)",
+      "artist": "LD, MONKEY, Dimzy & Liquez",
+      "has_synced": false,
+      "path": "select/14_Skeng_Man_(feat._Asap_&_Sj)_LD,_MONKEY,_Dimzy_&_Liquez.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SJ. (feat. Derish)",
+      "artist": "idk.",
+      "has_synced": true,
+      "path": "select/15_SJ._(feat._Derish)_idk..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Foreplay (feat. CLÆIRE & SJ Maglana)",
+      "artist": "Yamada",
+      "has_synced": true,
+      "path": "select/16_Foreplay_(feat._CLÆIRE_&_SJ_Maglana)_Yamada.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Traumatized (Liquez, SJ, ASAP, LD & Dimzy)",
+      "artist": "SJ Mellia",
+      "has_synced": false,
+      "path": "select/17_Traumatized_(Liquez,_SJ,_ASAP,_LD_&_Dimzy)_SJ_Mellia.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Pink Notes (feat. LD, Dimzy, Monkey & SJ)",
+      "artist": "67",
+      "has_synced": false,
+      "path": "select/18_Pink_Notes_(feat._LD,_Dimzy,_Monkey_&_SJ)_67.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Loaded up (feat. 67 Sj)",
+      "artist": "Carns Hill",
+      "has_synced": false,
+      "path": "select/19_Loaded_up_(feat._67_Sj)_Carns_Hill.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SJ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_SJ_スピッツ.txt"
+    }
+  ]
+}
